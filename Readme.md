@@ -2,6 +2,18 @@
 
 Over 900+ leagues and cups. Deep field statistics, player profiles, and gameplay metrics. Livescores, live news feed, predictions, lineups and much more! The only football API you’ll ever need.
 
+#### Features:
+
+1. In-field statistics of players in real time
+2. Complete player profiles (Market fee, attributes, trophies, clubs, transfer history)
+3. Complete club profiles (history, trophies, squads)
+4. Complete coach profiles
+5. League gameplay statistics
+7. Club/Team gameplay statistics
+8. Probable lineups of each match
+9. Gameplay statistics of each match
+10. Club/League/Player related news and much more!
+
 
 Please refer to our documentation here - https://rapidapi.com/shanjohridev/api/football-api-by-futmetrics
 
